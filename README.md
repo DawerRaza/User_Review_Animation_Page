@@ -1,16 +1,14 @@
-# review_animations
+Flutter Animation Screen: Share Your Review
+The "Share Your Review" animation screen in Flutter adds a dynamic and engaging touch to the user experience. It features smooth transitions and delightful animations, making it easy and fun for users to share their feedback. With its seamless integration, the animation screen enhances the app's interactivity and visual appeal.
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+https://github.com/DawerRaza/User_Review_Animation_Page/assets/94078682/dfdb50f2-966b-453f-9e57-e30996eab5d6
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+<img width="300" alt="screen1" src="https://github.com/DawerRaza/User_Review_Animation_Page/assets/94078682/62f4b714-15a9-4510-9aba-da918ce8748f">
+<img width="300" alt="screen2" src="https://github.com/DawerRaza/User_Review_Animation_Page/assets/94078682/33df8aff-3ce7-4aa7-b042-fea5157968e1">
+<img width="300" alt="screen3" src="https://github.com/DawerRaza/User_Review_Animation_Page/assets/94078682/941b2bc0-24ae-48b1-ac32-0d48ad6cf385">
